@@ -1,3 +1,4 @@
 # MyCVWebsite
-
-This code is for my personal CV - Website. Which is hosted over AZURE.
+## Beschreibung
+Hierbei handelt es sich um eine Website, welche meinen CV enthält. 
+Die Webseite wird über AZURE gehostet.
